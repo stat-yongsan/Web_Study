@@ -1,5 +1,5 @@
 # 그림으로 배우는 웹 구조 Web Technology
-
+*teacher: 스이카님*
 ---
 
 - Ch 1. 웹 기술의 기본 -10/7
